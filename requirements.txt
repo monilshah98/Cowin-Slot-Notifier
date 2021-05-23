@@ -1,0 +1,3 @@
+pretty-html-table
+fake-useragent
+pandas
