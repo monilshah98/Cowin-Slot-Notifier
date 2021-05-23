@@ -6,3 +6,7 @@
 + sensitive.py: file where you can enter your email password and directly import and use it in main file
 + district_mapping.csv: contains the district names and it's respective district and state id
 ```
+
+First install the dependencies using the command,
+
+    pip install -r requirements.txt
