@@ -1,1 +1,1 @@
-# cowin_slot_notifier
+# Cowin Slot Notifier
