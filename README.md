@@ -20,5 +20,5 @@ Script takes one required argument which is district id. You can find the id of 
     python cowin_slot_notifier.py -d 770
 
 
-Note: When you use an gmail account for development, you need to turn the Less Secure App access option "ON" from your gmail account settings. An article on how to do so can be found [here](https://hotter.io/docs/email-accounts/secure-app-gmail/).
+#### NOTE: To use an gmail account for development, you need to turn the Less Secure App access option "ON" from your gmail account settings. An article on how to do so can be found [here](https://hotter.io/docs/email-accounts/secure-app-gmail/).
 
