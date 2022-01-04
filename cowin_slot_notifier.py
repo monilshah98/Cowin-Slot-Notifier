@@ -180,7 +180,7 @@ if __name__ == "__main__":
 
                         if len(filtered_df) > 0:
                             output = build_table(filtered_df[["Date", "Available Capacity Dose 1", "Available Capacity Dose 2", "Vaccine", "Minimum Age Limit", "Center Name", "Pincode", "Fees"]], 'blue_light')
-                            email_status = API_obj.send_email_notification(district_name, 'moniltshah98@gmail.com', output)
+                            email_status = API_obj.send_email_notification(district_name, '<receiver_email_here>', output)
 
                             if email_status:
                                 print("Email Sent Successfully.")
